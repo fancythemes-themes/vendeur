@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid ""
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "%1$s: %2$s"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "2 Columns"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "3 Columns"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "4 Columns"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "404 - Page not Found"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Add widgets here to appear in your sidebar in the products pages."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent-posts.php:182
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Archive page posts list shown as"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Archives: %s"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Author by:"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Bananarama"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Blog posts list shown as"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Body & Paragraphs"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Border Color"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/hero-image.php:108
+msgid "Button Label"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/hero-image.php:112
+msgid "Button link URL"
+msgstr ""
+
+#. Text in function
+#: comments.php:72
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+msgid "Cannot fetch tweets"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/hero-image.php:104
+msgid "Caption"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+#: inc/widgets/recent-posts.php:181
+msgid "Category:"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Classic View (Full Posts)"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Color Scheme"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:203
+msgid "Comments Number"
+msgstr ""
+
+#. Text in echo
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Content Box Background Color"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Credit Text"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Dark"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:202
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: template-parts/content-audio.php:20
+#: template-parts/content-featured.php:19
+#: template-parts/content-gallery.php:20
+#: template-parts/content-link.php:34
+#: template-parts/content-list.php:24
+#: template-parts/content-page.php:33
+#: template-parts/content-quote.php:34
+#: template-parts/content-search.php:24
+#: template-parts/content-search.php:39
+#: template-parts/content-single.php:15
+#: template-parts/content-video.php:20
+#: template-parts/content.php:20
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Enable sticky header"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/twitter.php:89
+msgid "Enter ID of your twitter account"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Entry Meta"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Entry Title"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-featured.php:14
+msgid "Featured"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/instagram.php:59
+#: inc/widgets/twitter.php:57
+msgid "Follow Me"
+msgstr ""
+
+#. Text in echo
+#: footer.php:35
+#: functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Footer Options"
+msgstr ""
+
+#. Text in echo
+#: footer.php:20
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Widget 1"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Widget 2"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Widget 3"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Widget 4"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Full Width Footer Widget"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Full Width Header Widget"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Grid View"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Happy"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Header Options"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/hero-image.php:1
+msgid "Hero Image"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Homepage Widget"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:215
+msgid "Image Overlay"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/hero-image.php:100
+msgid "Image URL"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/instagram.php:1
+#: inc/widgets/instagram.php:61
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/instagram.php:1
+msgid "Instagram Feed."
+msgstr ""
+
+#. Text in echo
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:209
+msgid "Large Thumbnail"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+#: inc/widgets/twitter.php:63
+msgid "Latest Tweet"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Layout options for Woocommerce"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "List View"
+msgstr ""
+
+#. Text in function
+#: archive.php:35
+#: functions.php:1
+#: index.php:37
+msgid "Load More"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Loading..."
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:487
+msgid "Login / Register"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+#: header.php:68
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Menu Text Color"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Meta Color"
+msgstr ""
+
+#. Text in echo
+#: featured-posts.php:41
+msgid "More Featured Posts"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:485
+msgid "My Account"
+msgstr ""
+
+#. Text in function
+#: blog1-page.php:20
+#: blog2-page.php:20
+#: blog3-page.php:20
+#: inc/template-tags.php:500
+#: inc/widgets/recent-posts.php:227
+#: index.php:37
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: image.php:25
+msgid "Next Image"
+msgstr ""
+
+#. Text in function
+#: single.php:17
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: archive.php:35
+#: search.php:24
+msgid "Next page"
+msgstr ""
+
+#. Text in function
+#: single.php:17
+msgid "Next post:"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:1
+msgid "No comment"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/instagram.php:97
+msgid "Number of Photos:"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Number of columns of products to show on shop"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:197
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/twitter.php:93
+msgid "Number of tweets"
+msgstr ""
+
+#. Text in echo
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Text in function
+#: archive.php:35
+#: blog1-page.php:20
+#: blog2-page.php:20
+#: blog3-page.php:20
+#: image.php:80
+#: index.php:37
+#: search.php:24
+#: template-parts/content-audio.php:73
+#: template-parts/content-gallery.php:72
+#: template-parts/content-link.php:85
+#: template-parts/content-page.php:19
+#: template-parts/content-quote.php:85
+#: template-parts/content-single.php:68
+#: template-parts/content-video.php:72
+#: template-parts/content.php:72
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: image.php:80
+#: template-parts/content-audio.php:73
+#: template-parts/content-gallery.php:72
+#: template-parts/content-link.php:85
+#: template-parts/content-page.php:19
+#: template-parts/content-quote.php:85
+#: template-parts/content-single.php:68
+#: template-parts/content-video.php:72
+#: template-parts/content.php:72
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Placed on the top before main content. Best use for featured posts."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Please select a font for the theme's Entry meta styles"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Please select a font for the theme's Entry title styles"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Please select a font for the theme's Widget title styles"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Please select a font for the theme's body and paragraph text"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Please select a font for the theme's menu styles"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Posted in month:"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Posted in year:"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Posted in:"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Posts Options"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Posts by "
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Posts navigation"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:207
+msgid "Presented as"
+msgstr ""
+
+#. Text in function
+#: blog1-page.php:20
+#: blog2-page.php:20
+#: blog3-page.php:20
+#: inc/template-tags.php:500
+#: inc/widgets/recent-posts.php:227
+#: index.php:37
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#. Text in function
+#: single.php:17
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+#: archive.php:35
+#: search.php:24
+msgid "Previous page"
+msgstr ""
+
+#. Text in function
+#: single.php:17
+msgid "Previous post:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+#: header.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Proudly powered by"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:156
+#: template-parts/content-link.php:85
+#: template-parts/content-quote.php:85
+#: template-parts/content-video.php:72
+#: template-parts/content.php:72
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: template-parts/content-audio.php:73
+#: template-parts/content-gallery.php:72
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Recommended 60px x 60px. If provided, the logo will shown on sticky header."
+msgstr ""
+
+#. Text in echo
+#: header.php:83
+#: inc/template-tags.php:500
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Search result page posts list shown as"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Secondary logo"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Shop Options"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Shop Sidebar"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:218
+msgid "Show as slider"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Show excerpt"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in echo
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:221
+msgid "Slideshow"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:222
+msgid "Slideshow time:"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:212
+msgid "Small thumbnail"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+#: header.php:33
+msgid "Social Links Menu"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:200
+msgid "Sort By:"
+msgstr ""
+
+#. Text in echo
+#: template-parts/content-audio.php:15
+#: template-parts/content-gallery.php:15
+#: template-parts/content-link.php:15
+#: template-parts/content-list.php:13
+#: template-parts/content-quote.php:15
+#: template-parts/content-video.php:15
+#: template-parts/content.php:15
+msgid "Sticky"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Tag: "
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "Tagged As:"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:193
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Text Color"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/twitter.php:62
+msgid "This widget is dependent to \"OAuth Twitter feed for developers\" plugin. Please install it for using this widget"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:178
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+msgid "Twitter Feed."
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/instagram.php:93
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Using ajax load more button instead of default pagination"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/hero-image.php:1
+msgid "Vendeur - Hero Image"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/instagram.php:1
+msgid "Vendeur - Instagram"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent-posts.php:227
+msgid "Vendeur - Recent Posts"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+msgid "Vendeur - Twitter"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:493
+msgid "View   cart"
+msgstr ""
+
+#. Text in function
+#: template-parts/biography.php:35
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Widget Title"
+msgstr ""
+
+#. Text in function
+#: inc/customizer.php:940
+msgid "Widget Title Color"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/hero-image.php:96
+#: inc/widgets/instagram.php:89
+#: inc/widgets/twitter.php:85
+msgid "Widget title:"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "WordPress"
+msgstr ""
+
+#. Text in function
+#: comments.php:72
+msgid "Write your comment here"
+msgstr ""
+
+#. Text in echo
+#: template-parts/biography.php:28
+msgid "Written by"
+msgstr ""
+
+#. Text in function
+#: comments.php:72
+msgid "Your Email"
+msgstr ""
+
+#. Text in function
+#: comments.php:72
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:72
+msgid "Your Website"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent-posts.php:227
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "collapse child menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "expand child menu"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:500
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent-posts.php:224
+msgid "in seconds"
+msgstr ""
